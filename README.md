@@ -1,4 +1,4 @@
-# DIO-Classificador-de-N-vel-de-Her-i
+# DIO-Classificador-de-Nivel-de-Heroi
 Projeto do bootcamp da DIO - Potência Tech iFood - Programação do Zero
 
 Entendendo o Desafio
